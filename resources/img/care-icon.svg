@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>care-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="care-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="heart" transform="translate(0.000000, 4.000000)" fill="#A409B8">
+            <g id="Heart">
+                <path d="M26.9833333,1.925 C24.1966667,-0.631666667 19.6783333,-0.631666667 16.8916667,1.925 L15,3.66166667 L13.1066667,1.925 C10.32,-0.631666667 5.80333333,-0.631666667 3.01666667,1.925 C-0.118333333,4.80333333 -0.118333333,9.45833333 3.01666667,12.335 L15,23.3333333 L26.9833333,12.335 C30.1166667,9.45833333 30.1166667,4.80166667 26.9833333,1.925 L26.9833333,1.925 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

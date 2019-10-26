@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="57px" viewBox="0 0 50 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>sparkles-bottom</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sparkles-3" transform="translate(2.000000, 2.000000)">
+            <g id="sparkles-bottom" transform="translate(24.000000, 27.500000) scale(1, -1) translate(-24.000000, -27.500000) ">
+                <circle id="Circle-Stroke" stroke="#1E55EB" stroke-width="3" cx="5" cy="50" r="5"></circle>
+                <polygon id="diamond-copy-4" fill="#5FE1E1" fill-rule="nonzero" transform="translate(42.941463, 18.941463) rotate(-45.000000) translate(-42.941463, -18.941463) " points="39.4414632 15.4414632 46.4414632 15.4414632 46.4414632 22.4414632 39.4414632 22.4414632"></polygon>
+                <circle id="Circle-Fill" fill="#192D9B" cx="16" cy="4" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

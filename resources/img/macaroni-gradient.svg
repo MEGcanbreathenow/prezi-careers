@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="682px" height="673px" viewBox="0 0 682 673" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.4699652%" y1="9.66066337%" x2="47.6599327%" y2="87.5293041%" id="linearGradient-1">
+            <stop stop-color="#3181FF" offset="0%"></stop>
+            <stop stop-color="#3181FF" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M36.0124497,676.879396 C-30.9244334,493.680125 13.4008374,288.428316 150.020385,148.956284 C286.639932,9.48425284 491.34642,-39.4952392 676.540889,22.9773419 L583.016666,298.641933 C562.641203,291.751706 541.339393,287.969437 519.831573,287.423026 C448.193578,285.420643 380.202048,318.8966 338.232346,376.83428 C296.262644,434.77196 285.75124,509.666509 310.157336,576.870847 L36.0124497,676.879396 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" transform="translate(340.906745, 336.556295) scale(-1, 1) rotate(-270.000000) translate(-340.906745, -336.556295) "></path>
+    </g>
+</svg>
