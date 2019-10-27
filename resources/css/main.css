@@ -92,6 +92,16 @@ section {
     }
 }
 
+.mobile-btm-42 {
+    margin-bottom: 42px;
+}
+
+@media (min-width: 768px) {
+    .mobile-btm-42 {
+        margin-bottom: 0;
+    }
+}
+
 /* Positioning */
 .p-absolute {
     position: absolute;
