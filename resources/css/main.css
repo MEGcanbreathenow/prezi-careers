@@ -119,6 +119,14 @@ section {
     z-index: 2;
 }
 
+/* FIX FOR VALIGN ========== */
+@media (min-width: 768px) {
+    .valign {
+        display: flex;
+        align-items: center;
+    }
+}
+
 .flex-image {
     display: flex;
     justify-content: center;
